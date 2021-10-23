@@ -35,7 +35,7 @@
   </a>
 </p>
 
-Interests :heart_eyes:<br>
+<b>What We Can Do For You</b> :heart_eyes:<br>
 
 <p><b>BRANDING</b> - We have a team of Business Analysts with a broad Industry Exposure. We can arrange a meeting with our BA Team to discuss your business challenges and analysis you unique needs to propose the perfect solution.</p>
 <p><b>ILLUSTRATIONS</b> - Our team of experienced digital artists shall provide one of the best illustrations for your products. We are blessed with some highly talented graphic artists and can deliver you stunning and profession graphic works. We can provide you with Logos, Flyers, Brochures, Letterheads and more.</p>
