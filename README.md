@@ -40,9 +40,9 @@ Interests :heart_eyes:<br>
 <p><b>BRANDING</b> - We have a team of Business Analysts with a broad Industry Exposure. We can arrange a meeting with our BA Team to discuss your business challenges and analysis you unique needs to propose the perfect solution.</p>
 <p><b>ILLUSTRATIONS</b> - Our team of experienced digital artists shall provide one of the best illustrations for your products. We are blessed with some highly talented graphic artists and can deliver you stunning and profession graphic works. We can provide you with Logos, Flyers, Brochures, Letterheads and more.</p>
 <p><b>MARKETING & SEO STRATEGY</b> - Skilled marketing and SEO strategies are a must for any company, this is provided by our highly skilled and experienced marketing and SEO team.</p>
-APP DEVELOPMENT- We have a team of experienced and skilled developers to build the best product for your company.
-WEBSITE DESIGN & DEVELOPMENT - We are fortunate to have a team of extraordinary designer matched with equally talented developers. No matter what you have in mind we are confident that we can design it, develop it and deploy it to your satisfaction.
-IT SECURITY - Security is the most essential part of any company. We also provide information security services to cater your needs.
+<p><b>APP DEVELOPMENT</b> - We have a team of experienced and skilled developers to build the best product for your company.</p>
+<p><b>WEBSITE DESIGN & DEVELOPMENT</b> - We are fortunate to have a team of extraordinary designer matched with equally talented developers. No matter what you have in mind we are confident that we can design it, develop it and deploy it to your satisfaction.</p>
+<p><b>IT SECURITY</b> - Security is the most essential part of any company. We also provide information security services to cater your needs.</p>
 
 ## My Github Statistics:
 
