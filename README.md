@@ -3,7 +3,7 @@
 
 <p align='Center'>
  Hi! We are  <b>CRAWLERS</b>.<br/>
- We start-up this company in <b>July,2021. It's a Kolkata based start-up</b>.<br/>
+ Founded in<b>2021. It's a Kolkata based start-up</b>.<br/>
  </p>
  
 <p><b>Come start your digital transformation with us.</b></p>
@@ -12,7 +12,7 @@
 <p> 🥅 2021 Goals: <b>Get more to projects</b></p>
 
 <p> ⚡ Fun fact: Prefer tabs over spaces  </p>
-<p> Website : <b>crawlers.co.in</b></p>
+<p> 🥅 Website : <b>crawlers.co.in</b></p>
 
 <p>📫 How to reach us:innocent:</p>
 
@@ -38,8 +38,8 @@
 Interests :heart_eyes:<br>
 
 <p><b>BRANDING</b> - We have a team of Business Analysts with a broad Industry Exposure. We can arrange a meeting with our BA Team to discuss your business challenges and analysis you unique needs to propose the perfect solution.</p>
-ILLUSTRATIONS - Our team of experienced digital artists shall provide one of the best illustrations for your products. We are blessed with some highly talented graphic artists and can deliver you stunning and profession graphic works. We can provide you with Logos, Flyers, Brochures, Letterheads and more.
-MARKETING & SEO STRATEGY - Skilled marketing and SEO strategies are a must for any company, this is provided by our highly skilled and experienced marketing and SEO team.
+<p><b>ILLUSTRATIONS</b> - Our team of experienced digital artists shall provide one of the best illustrations for your products. We are blessed with some highly talented graphic artists and can deliver you stunning and profession graphic works. We can provide you with Logos, Flyers, Brochures, Letterheads and more.</p>
+<p><b>MARKETING & SEO STRATEGY</b> - Skilled marketing and SEO strategies are a must for any company, this is provided by our highly skilled and experienced marketing and SEO team.</p>
 APP DEVELOPMENT- We have a team of experienced and skilled developers to build the best product for your company.
 WEBSITE DESIGN & DEVELOPMENT - We are fortunate to have a team of extraordinary designer matched with equally talented developers. No matter what you have in mind we are confident that we can design it, develop it and deploy it to your satisfaction.
 IT SECURITY - Security is the most essential part of any company. We also provide information security services to cater your needs.
