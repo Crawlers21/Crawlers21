@@ -37,7 +37,7 @@
 
 Interests :heart_eyes:<br>
 
-BRANDING - We have a team of Business Analysts with a broad Industry Exposure. We can arrange a meeting with our BA Team to discuss your business challenges and analysis you unique needs to propose the perfect solution.
+<p><b>BRANDING</b> - We have a team of Business Analysts with a broad Industry Exposure. We can arrange a meeting with our BA Team to discuss your business challenges and analysis you unique needs to propose the perfect solution.</p>
 ILLUSTRATIONS - Our team of experienced digital artists shall provide one of the best illustrations for your products. We are blessed with some highly talented graphic artists and can deliver you stunning and profession graphic works. We can provide you with Logos, Flyers, Brochures, Letterheads and more.
 MARKETING & SEO STRATEGY - Skilled marketing and SEO strategies are a must for any company, this is provided by our highly skilled and experienced marketing and SEO team.
 APP DEVELOPMENT- We have a team of experienced and skilled developers to build the best product for your company.
