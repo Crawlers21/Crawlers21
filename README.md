@@ -3,7 +3,7 @@
 
 <p align='Center'>
  Hi! We are  <b>CRAWLERS</b>.<br/>
- Founded in<b>2021. It's a Kolkata based start-up</b>.<br/>
+ Founded in <b>2021. It's a Kolkata based start-up</b>.<br/>
  </p>
  
 <p><b>Come start your digital transformation with us.</b></p>
