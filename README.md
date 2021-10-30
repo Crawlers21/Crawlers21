@@ -3,7 +3,8 @@
 
 <p align='Center'>
  Hi! We are  <b>CRAWLERS</b>.<br/>
- Founded in <b>2021. It's a Kolkata based start-up</b>.<br/>
+ Founded in <b>2021. CRAWLERS is a Kolkata based technology company specializing in web, mobile product development and digital marketing. We build web and mobile applications using Node, React, React Native and other web technologies. We're passionate about building industry leading software products, delighting our customers and giving back to the developer community.
+</b>.<br/>
  </p>
  
 <p><b>Come start your digital transformation with us.</b></p>
