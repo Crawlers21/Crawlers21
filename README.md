@@ -9,7 +9,7 @@
 <p><b>Come start your digital transformation with us.</b></p>
 <p> 👯 We are looking to <b>collaborate with other start-ups.</b></p>
 
-<p> 🥅 2022 Goals: <b>Get more to projects</b></p>
+<p> 🥅 2022 Goals: <b>Get more projects</b></p>
 
 <p> ⚡ Fun fact: Prefer tabs over spaces  </p>
 <p> 🥅 Website : <b><link>https://crawlers.co.in</b></link></p>
