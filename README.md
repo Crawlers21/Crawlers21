@@ -37,7 +37,7 @@
 
 <b>What We Can Do For You</b> :heart_eyes:<br>
 
-<p><b>BRANDING</b> - We have a team of Business Analysts with a broad Industry Exposure. We can arrange a meeting with our BA Team to discuss your business challenges and analysis you unique needs to propose the perfect solution.</p>
+<p><b>BRANDING</b> - We have a team of Business Analysts with a Broad Industry Exposure. We can arrange a meeting with our Business Analyst Team to discuss your business challenges and analysis you unique needs to propose the perfect solution.</p>
 <p><b>ILLUSTRATIONS</b> - Our team of experienced digital artists shall provide one of the best illustrations for your products. We are blessed with some highly talented graphic artists and can deliver you stunning and profession graphic works. We can provide you with Logos, Flyers, Brochures, Letterheads and more.</p>
 <p><b>MARKETING & SEO STRATEGY</b> - Skilled marketing and SEO strategies are a must for any company, this is provided by our highly skilled and experienced marketing and SEO team.</p>
 <p><b>APP DEVELOPMENT</b> - We have a team of experienced and skilled developers to build the best product for your company.</p>
@@ -53,20 +53,3 @@
 </div>
 
 
-
-
-
-<!--
-**Shuvo31/Shuvo31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
